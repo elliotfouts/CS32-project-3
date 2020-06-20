@@ -5,6 +5,6 @@ Taught using C++, CS 32 is UCLA's introduction to common data structures in comp
 * Memory management (destructors, copy constructors, assignment operators)
 * OOP (inheritance, polymorphism, ...)
 * Recursion
-* Algorithm analysis (Big O)
+* Algorithm time analysis (Big O)
 * Common data structures (linked lists, stacks, queues, trees, hash tables, graphs)
 * Common Algorithms (sorting, searching)
