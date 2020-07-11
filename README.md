@@ -5,7 +5,7 @@
 
 #### Topics covered 
 * Memory management (destructors, copy constructors, assignment operators)
-* OOP (inheritance, polymorphism, ...)
+* Principles of OOP 
 * Recursion
 * Algorithm time analysis (Big O)
 * Common data structures (linked lists, stacks, queues, trees, hash tables, graphs)
